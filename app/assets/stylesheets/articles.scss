@@ -1,0 +1,38 @@
+// Place all the styles related to the articles controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.article-card{
+// border-bottom: 3px solid rgba(240, 240, 240, 0.8);
+background-color: rgba(240, 240, 240, 0.8);
+padding: 5px;
+margin-top: 5px;
+}
+
+.article-card h3{
+  font-family: 'Roboto', sans-serif;
+  color: rgba(80, 80, 80, 1);
+}
+
+.article-card p{
+  font-family: 'Roboto Slab', serif;
+}
+
+body{
+  background-color: rgba(180, 180, 180, 0.8);
+}
+
+a.link-to{
+  color: rgba(80, 80, 80, 1);
+  text-decoration: none;
+  background-color: transparent;
+}
+
+.navbar a{
+ color: rgba(80, 80, 80, 1);
+  text-decoration: none;
+  background-color: transparent;
+}
+
+.article-container{
+
+}
